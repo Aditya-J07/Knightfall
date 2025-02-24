@@ -26,6 +26,6 @@ Leap through shifting dimensions in a fast-paced parkour adventure. Explore uniq
 
 *Tutorials & Learning Resources:*
 
-  [Brackeys](https://brackeysgames.itch.io/brackeys-platformer-bundle): For the helpful tutorials and assets used in getting started with game development.
+  [*Brackeys*](https://brackeysgames.itch.io/brackeys-platformer-bundle): For the helpful tutorials and assets used in getting started with game development.
   
-  Godot Documentation: For the official documentation that guided the use of Godot.
+  *Godot Documentation:* For the official documentation that guided the use of Godot.
