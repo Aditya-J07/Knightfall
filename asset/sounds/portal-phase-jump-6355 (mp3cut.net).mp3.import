@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dbdpajdaeydk4"
+path="res://.godot/imported/portal-phase-jump-6355 (mp3cut.net).mp3-ba85a3a28ed081e9e79309c5dca06ca9.mp3str"
+
+[deps]
+
+source_file="res://asset/sounds/portal-phase-jump-6355 (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/portal-phase-jump-6355 (mp3cut.net).mp3-ba85a3a28ed081e9e79309c5dca06ca9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

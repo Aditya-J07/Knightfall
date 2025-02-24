@@ -1,0 +1,22 @@
+[gd_scene load_steps=4 format=3 uid="uid://3fjrdd6qqvv7"]
+
+[ext_resource type="Texture2D" uid="uid://c4dqqmj7achr7" path="res://asset/sprites/tile_set_aleatorio.png" id="1_6krvd"]
+[ext_resource type="PackedScene" uid="uid://dra1cq6cm2mm7" path="res://scenes/killzone.tscn" id="2_vcwnu"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_i58ql"]
+size = Vector2(48, 8)
+
+[node name="movespikes" type="AnimatableBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(0, -8)
+texture = ExtResource("1_6krvd")
+region_enabled = true
+region_rect = Rect2(49, 0, 47, 16)
+
+[node name="killzone" parent="Sprite2D" instance=ExtResource("2_vcwnu")]
+position = Vector2(-9.59851, 46.0699)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Sprite2D/killzone"]
+position = Vector2(9.59851, -42.0699)
+shape = SubResource("RectangleShape2D_i58ql")
