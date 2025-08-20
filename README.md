@@ -3,7 +3,7 @@ A high-speed parkour adventure through a shattered multiverse! Jump, dash, and l
 
 # Play the Game
 **You can play Knightfall: Dimensional Rifts on Itch.io:**
-  [CLICK TO PLAY](https://prolly-adi.itch.io/knightfall-dimensional-rifts)
+  [CLICK TO PLAY](https://prolly-adi.itch.io/knightfall-dimensional-rifts) ![screenshot1](https://github.com/Aditya-J07/Knightfall/blob/47b7e5babce3c5acb4739aea67e4240dad251ced/image.png)
 
 # Description
 Leap through shifting dimensions in a fast-paced parkour adventure. Explore unique and dangerous realms while overcoming mind-bending challenges. Master jumping and dashing to navigate each dimension and uncover secrets to save the multiverse.
