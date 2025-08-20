@@ -7,6 +7,7 @@ A high-speed parkour adventure through a shattered multiverse! Jump, dash, and l
 
 # Description
 Leap through shifting dimensions in a fast-paced parkour adventure. Explore unique and dangerous realms while overcoming mind-bending challenges. Master jumping and dashing to navigate each dimension and uncover secrets to save the multiverse.
+<img width="987" height="647" alt="image" src="https://github.com/user-attachments/assets/e1e4cee7-a4ec-43fc-ba41-06a2959810f7" />
 
 # How to Play
 
